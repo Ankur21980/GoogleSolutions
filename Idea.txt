@@ -1,0 +1,17 @@
+Idea of the Project:
+
+1.We'll be going to make a web app/progressive web app.
+  (More about Progressive web app - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+2.The main motto of the project is influence the students of universities to work with us and in return we'll be going to appreciate for their
+  participation by providing them badges and certificates.These things will help them in future.
+
+3.Our web app/progressive web app will also have a donation system.The total collected amount will be calculated after a specific period of time.
+  And the total amount will be splited into two parts where the 86% of that will distributed among the poors transparently.So, they can use the money to
+  start their own business and buy stuffs from small businessman.And the rest of 14% of total amount will be invested in gold, stocks and rael estate for 
+  their future purpose by this poor people will also have financial security in bad times.
+
+4.People will be also able to donate their old items and the donated items by the users will be sold at a very reasonable price in consideration of that 
+  item to the poor people so that their ego is satisfied and that money will go for the education of the poor children.
+
+  
